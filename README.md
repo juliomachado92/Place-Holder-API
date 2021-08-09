@@ -36,8 +36,9 @@ Esta aplicação deve contem os menus:
 * Ao Clicar no menu Lateral tem as opções para navegar entre as paginas
 
 ### Screenshots ###
-![Menu](imagens/menu.png "Menu em modo claro")
-![Postagem](imagens/posts.png "Tela de postagens em modo claro")
-![Menu Dark](imagens/menu_dark.png "Menu em modo escuro")
-![Postagem Dark](imagens/posts_dark.png "Tela de postagens em modo escuro")
+
+<img width="200" alt="Menu Light" src="https://github.com/juliomachado92/Place-Holder-API/blob/main/imagens/menu.png"> | <img width="200" alt="Posts Light" src="https://github.com/juliomachado92/Place-Holder-API/blob/main/imagens/posts.png"> | <img width="200" alt="Menu Dark" src="https://github.com/juliomachado92/Place-Holder-API/blob/main/imagens/menu_dark.png"> | <img width="200" alt="Posts Dark" src="https://github.com/juliomachado92/Place-Holder-API/blob/main/imagens/posts_dark.png"> 
+
+
+
 

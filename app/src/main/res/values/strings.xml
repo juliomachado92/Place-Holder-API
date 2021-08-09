@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Place Holder Menu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Julio Machado</string>
+    <string name="nav_header_subtitle">julio.machado92@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_posts">POSTAGENS</string>
+    <string name="menu_albums">ALBUNS</string>
+    <string name="menu_todos">TO-DOs</string>
+    <string name="label_id">ID: </string>
+    <string name="label_user_id">User ID: </string>
+    <string name="label_title">Title: </string>
+    <string name="label_body">Body:</string>
+    <string name="label_completed">Completed:</string>
+
+
+</resources>

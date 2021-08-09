@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_posts">
+
+    <fragment
+        android:id="@+id/nav_posts"
+        android:name="com.jmachado.placeholdermenu.ui.posts.PostsFragment"
+        android:label="@string/menu_posts"
+        tools:layout="@layout/fragment_posts" />
+
+    <fragment
+        android:id="@+id/nav_albums"
+        android:name="com.jmachado.placeholdermenu.ui.albums.AlbumsFragment"
+        android:label="@string/menu_albums"
+        tools:layout="@layout/fragment_albums" />
+
+    <fragment
+        android:id="@+id/nav_todos"
+        android:name="com.jmachado.placeholdermenu.ui.todos.ToDosFragment"
+        android:label="@string/menu_todos"
+        tools:layout="@layout/fragment_todos" />
+</navigation>

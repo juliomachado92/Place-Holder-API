@@ -16,10 +16,10 @@ Esta aplicação deve contem os menus:
 * Retrofit - Para Requisições externas
 * Coroutines - Para métodos assíncronos de alta performance
 * Livedata - Para usar como um observable
-* Coil - Para baixar imagens externas
 * Material Desing - Para desing de componentes
 * CardView - Como item de lista 
 * RecicleView - Para exibição de uma lista dinâmica
+* Room - Para banco de dados 
 
 ### Utilização ###
 
